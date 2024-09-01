@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://7k5d5cdwgje"]
+
+[ext_resource type="Script" path="res://annotation101/exports.gd" id="1_ab5p6"]
+
+[node name="exports101" type="Node2D"]
+script = ExtResource("1_ab5p6")
+p_speed = 30
+color_dye = Color(0.875, 0.119629, 0.119629, 1)
+my_float = -45.8
