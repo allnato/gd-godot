@@ -1,0 +1,176 @@
+[gd_scene load_steps=3 format=3 uid="uid://cg7ovpi72bhby"]
+
+[ext_resource type="Texture2D" uid="uid://blirfeds4bl3k" path="res://icon.svg" id="1_0oxcc"]
+[ext_resource type="Texture2D" uid="uid://bvv8qsfsum2q6" path="res://peppino.png" id="2_8gpb5"]
+
+[node name="MyLevel" type="Node2D"]
+
+[node name="Godot Man" type="Sprite2D" parent="."]
+position = Vector2(578.375, 244.063)
+scale = Vector2(1.52539, 1.46583)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man2" type="Sprite2D" parent="."]
+position = Vector2(184.375, 153.757)
+scale = Vector2(0.447265, 0.429802)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man3" type="Sprite2D" parent="."]
+position = Vector2(360, 153.757)
+scale = Vector2(0.447265, 0.429802)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man4" type="Sprite2D" parent="."]
+position = Vector2(255.358, 231.545)
+rotation = 0.523598
+scale = Vector2(0.138137, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man6" type="Sprite2D" parent="."]
+position = Vector2(275, 258)
+rotation = 1.57079
+scale = Vector2(0.138137, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man7" type="Sprite2D" parent="."]
+position = Vector2(180.4, 301.843)
+rotation = -1.0472
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man12" type="Sprite2D" parent="."]
+position = Vector2(139, 325)
+rotation = -0.168488
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man13" type="Sprite2D" parent="."]
+position = Vector2(149, 358)
+rotation = -0.397866
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man14" type="Sprite2D" parent="."]
+position = Vector2(167, 389)
+rotation = -0.665188
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man15" type="Sprite2D" parent="."]
+position = Vector2(194, 412)
+rotation = -1.08075
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man17" type="Sprite2D" parent="."]
+position = Vector2(298, 425)
+rotation = -1.92663
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man18" type="Sprite2D" parent="."]
+position = Vector2(330, 411)
+rotation = -2.06336
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man19" type="Sprite2D" parent="."]
+position = Vector2(355, 392)
+rotation = -2.37939
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man20" type="Sprite2D" parent="."]
+position = Vector2(371, 376)
+rotation = -2.44785
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man21" type="Sprite2D" parent="."]
+position = Vector2(359, 359)
+rotation = -1.40065
+scale = Vector2(0.0672102, 0.312601)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man11" type="Sprite2D" parent="."]
+position = Vector2(131, 290)
+rotation = -0.239232
+scale = Vector2(0.0631294, 0.329779)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man10" type="Sprite2D" parent="."]
+position = Vector2(138, 277)
+rotation = -0.993062
+scale = Vector2(0.042982, 0.252501)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man8" type="Sprite2D" parent="."]
+position = Vector2(239, 331)
+rotation = -1.14677
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man22" type="Sprite2D" parent="."]
+position = Vector2(114, 86)
+rotation = -1.93217
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man23" type="Sprite2D" parent="."]
+position = Vector2(179, 64)
+rotation = -1.82859
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man24" type="Sprite2D" parent="."]
+position = Vector2(352.063, 60.9149)
+rotation = -1.16376
+scale = Vector2(0.0631294, 0.492528)
+skew = -0.0436332
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man25" type="Sprite2D" parent="."]
+position = Vector2(411.775, 85.9621)
+rotation = -1.06018
+scale = Vector2(0.0631294, 0.615686)
+skew = -0.0436332
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man9" type="Sprite2D" parent="."]
+position = Vector2(306, 352)
+rotation = -1.44085
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man16" type="Sprite2D" parent="."]
+position = Vector2(244, 425)
+rotation = -1.44085
+scale = Vector2(0.0631294, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="Godot Man5" type="Sprite2D" parent="."]
+position = Vector2(287.358, 231.545)
+rotation = -0.523598
+scale = Vector2(0.138137, 0.615686)
+texture = ExtResource("1_0oxcc")
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_left = 488.0
+offset_top = 436.0
+offset_right = 668.0
+offset_bottom = 556.0
+size_flags_horizontal = 4
+size_flags_vertical = 4
+text = "poop lol"
+
+[node name="Peppino" type="Sprite2D" parent="."]
+position = Vector2(982, 442)
+scale = Vector2(0.730469, 0.767578)
+texture = ExtResource("2_8gpb5")
+
+[node name="Peppino2" type="Sprite2D" parent="."]
+z_index = -1
+position = Vector2(132, 495)
+scale = Vector2(0.513672, 0.539767)
+texture = ExtResource("2_8gpb5")
+flip_h = true
